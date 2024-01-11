@@ -1,7 +1,3 @@
-<head>
-    <title>Hand Tracking Piano with OpenCV, Mediapipe, and Pygame</title>
-</head>
-
 <body>
 
 <h1>Hand Tracking Piano with OpenCV, Mediapipe, and Pygame</h1>
