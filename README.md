@@ -34,7 +34,7 @@ pip install pygame
 </ol>
 
 <pre>
-<code>python your_script_name.py
+<code>python virtual_keyboard.py
 </code></pre>
 
 <p>A window will appear displaying the live camera feed with hand tracking and piano keys drawn on it.</p>
